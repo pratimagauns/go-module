@@ -1,3 +1,3 @@
-module github.com/pratimagauns/my-module
+module github.com/pratimagauns/go-module
 
 go 1.13
